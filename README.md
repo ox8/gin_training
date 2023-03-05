@@ -1,6 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/23bd9aed2db5316d1546/maintainability)](https://codeclimate.com/github/ox8/gin_training/maintainability)
-
-[![Test Coverage](https://api.codeclimate.com/v1/badges/23bd9aed2db5316d1546/test_coverage)](https://codeclimate.com/github/ox8/gin_training/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/23bd9aed2db5316d1546/maintainability)](https://codeclimate.com/github/ox8/gin_training/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/23bd9aed2db5316d1546/test_coverage)](https://codeclimate.com/github/ox8/gin_training/test_coverage)
 
 # Directory structure
 https://github.com/golang-standards/project-layout/blob/master/README.md
