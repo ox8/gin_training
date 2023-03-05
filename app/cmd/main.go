@@ -9,6 +9,5 @@ func main() {
 			"message": "WOW, SUCCESS!!!!",
 		})
 	})
-	r.Run()
-	return
+	_ = r.Run()
 }
